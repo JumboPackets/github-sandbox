@@ -9,3 +9,5 @@ After I added ".project" and ".gitignore" to .gitignore (divide by zero anyone?)
 and email address fixins
 
 another change
+
+This change should conflict with one on the local repo...what happens then?
