@@ -8,4 +8,7 @@ After I added ".project" and ".gitignore" to .gitignore (divide by zero anyone?)
 ...
 and email address fixins
 
-another change
+another change.
+
+
+I am adding this line and committing it to my local repo in the master branch.  I want to see how conflicts work out in Egit.
