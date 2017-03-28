@@ -13,3 +13,5 @@ another change.
 I am adding this line and committing it to my local repo in the master branch.  I want to see how conflicts work out in Egit.
 
 This change should conflict with one on the local repo...what happens then?
+
+WOOOT!
